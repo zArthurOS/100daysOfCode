@@ -24,8 +24,6 @@ public class GFG
                 arr1[i] = arr2[n++];
         }
         
-
-        // sort the whole array arr3
         Array.Sort(arr1);
     }
 }
